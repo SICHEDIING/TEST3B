@@ -1,0 +1,16 @@
+h1{
+    color: bisque;
+    background-color: aqua;
+    padding: 5 px;
+
+}
+h2{
+    color: blue;
+    border: 3px solid red ;
+    margin-left :2px;
+
+    width : 300px;
+}
+p{
+    margin-left :4em ;
+}
